@@ -1,2 +1,3 @@
 # hello_golden_ratio
-As it says.
+
+I have always been fascinated by the golden ratio.
